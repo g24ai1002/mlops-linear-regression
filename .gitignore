@@ -1,8 +1,17 @@
-__pycache__/
-*.py[cod]
-*.joblib
+ Python cache and logs
+_pycache_/
 .pytest_cache/
+*.py[cod]
+
+# Model artifacts
+*.joblib
+*.pkl
+*.pickle
+
+# Environment files
 .env
+
+# OS specific or IDE files
 .DS_Store
 .idea/
 .vscode/
