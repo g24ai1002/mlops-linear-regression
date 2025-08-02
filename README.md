@@ -1,4 +1,4 @@
-# MLOps Linear Regression Pipeline
+<img width="1091" height="168" alt="image" src="https://github.com/user-attachments/assets/58f6abc1-8b5f-4e70-833b-3d558098395b" /># MLOps Linear Regression Pipeline
 
 **Name**: Shubham Verma  
 **Roll Number**: G24AI1002  
@@ -90,22 +90,15 @@ GitHub Actions runs on **every push to `main`**, consisting of:
 
 All jobs must pass for the workflow to succeed.
 
----
-
-## 📊 Comparison Table: Original vs Quantized Model
-
-| Model Variant       | R² Score (Test) | MSE (Test) |
-|---------------------|------------------|------------|
-| **Original Model**  | ≈ 0.55           | ≈ 0.60     |
-| **Quantized 8-bit** | ≈ 0.53           | ≈ 0.62     |
-
-The quantized model shows **minimal performance drop** while reducing model size.
 
 ---
 
-## 📷 Sample Output
+## 📷 Output
 
-![Sample Predictions](prediction_sample_output.png)
+Present as png file in the repo
+
+* Sample Vs Actual Prediction
+* R2 Score & MSE
 
 ---
 
@@ -116,13 +109,5 @@ The quantized model shows **minimal performance drop** while reducing model size
 - Code is modularized and organized.
 - Only the `main` branch exists.
 - CI/CD is implemented using GitHub Actions.
-
----
-
-## ✅ Submission Details
-
-- **GitHub Repo**: [your_repo_link_here]
-- **Form Submitted**: ✅
-- **Deadline**: 2nd August, 2025 (11:59 PM)
 
 ---
