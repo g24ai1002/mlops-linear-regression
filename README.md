@@ -1,5 +1,3 @@
-<img width="1091" height="168" alt="image" src="https://github.com/user-attachments/assets/58f6abc1-8b5f-4e70-833b-3d558098395b" /># MLOps Linear Regression Pipeline
-
 **Name**: Shubham Verma  
 **Roll Number**: G24AI1002  
 **Course**: MLOps  
@@ -95,10 +93,11 @@ All jobs must pass for the workflow to succeed.
 
 ## 📷 Output
 
-Present as png file in the repo
+* R2 Score & MSE
+<img width="696" height="71" alt="R2 score   MSE" src="https://github.com/user-attachments/assets/67b37db5-cdf8-4585-9a01-43eecceaffeb" />
 
 * Sample Vs Actual Prediction
-* R2 Score & MSE
+<img width="1091" height="168" alt="Sample Vs Actual Prediction" src="https://github.com/user-attachments/assets/6032c442-2251-4226-a17c-1b08e581d129" />
 
 ---
 
